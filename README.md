@@ -34,3 +34,5 @@ Finally, we compare the performance of these models to determine which one fits 
 This comparison is based on their cross-validated MSE scores and their ability to generalize to the test data. 
 The project concludes with a summary of our findings and conclusions, highlighting the most effective model for predicting housing prices in the Boston area and 
 providing insights into the importance of different features in the prediction process.
+
+### ENJOY !!!
